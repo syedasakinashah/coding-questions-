@@ -1,1 +1,27 @@
 
+/*write a program thath prompts the user to enter two iteger and dsplay 
+"negative" if the difference between them i snegatice nad positive if the 
+difference them is a positive number */
+#include<iostream>
+#include<iomanip>
+#include<cmath>
+using namespace std;
+int main(){
+    int number1,number2;
+    int diff;
+    cout<<"enter number 1:  ";
+    cin>>number1;
+    cout<<"enter number 2:  ";
+    cin>>number2;
+
+    diff = number1-number2;
+    if (diff>=0){
+        cout<<"positive";
+    }
+    else{
+        cout<<"negative";
+    }
+    return 0;
+
+
+}
