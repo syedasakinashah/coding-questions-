@@ -1,2 +1,2 @@
 # coding-questions-
-This is a coding repo. Here im solving the coding problems for my exam point of v
+This is a coding repo. Here im solving the coding problems for my exam point of vi
